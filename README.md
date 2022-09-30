@@ -17,7 +17,3 @@ For some time, I was the technical lead of a startup tech company and because of
 <!--
 ![skills](2.svg)
 -->
-
-I love new and hight technologies and I always like to be able to develop at least a small clone of that...
-
-![ideas](idea.png)
