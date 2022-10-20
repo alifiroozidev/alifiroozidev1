@@ -6,7 +6,7 @@ before programming I was a 3D artist years ago and now I can create 3D AR and VR
       href="https://unpkg.com/swiper/swiper-bundle.min.css"
     />
 
-    <!-- Demo styles -->
+
     <style>
       html,
       body {
@@ -50,9 +50,7 @@ before programming I was a 3D artist years ago and now I can create 3D AR and VR
            
       }
     </style>
-  </head>
 
-  <body>
     <!-- Swiper -->
     <div class="swiper mySwiper">
       <div class="swiper-wrapper">
@@ -93,6 +91,8 @@ before programming I was a 3D artist years ago and now I can create 3D AR and VR
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
     <!-- Initialize Swiper -->
+    
+    
     <script>
       var swiper = new Swiper(".mySwiper", {
         effect: "coverflow",
